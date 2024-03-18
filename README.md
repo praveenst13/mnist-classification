@@ -17,7 +17,7 @@ The task is to classify a given image of a handwritten digit into one of 10 clas
 ## DESIGN STEPS
 
 ### STEP 1: Load the dataset from the tensorflow library.
-### STEP 2:Preprocess the dataset. MNIST dataset using to classify hadden written digit.
+### STEP 2:Preprocess the dataset. MNIST dataset using to classify handwritten written digit.
 ### STEP 3: Create and train your model.
 ### STEP 4: plot the training loss, validation loss vs iteration plot.
 ### STEP 5: Test the model for your handwritten scanned images.
